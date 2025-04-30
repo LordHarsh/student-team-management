@@ -172,7 +172,7 @@ The backend can be deployed to any Node.js hosting service like Heroku, Render, 
 #### Manas Joshi
 
 <p align="center">
-<img src = "https://media.licdn.com/dms/image/v2/D5603AQFS-uSiq8aIIA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1705914887851?e=1751500800&v=beta&t=7ekBYTQYWbIEMHOhrf-KAwQ4MGx1GvRIBSP2ARiYbd8"  height="120" alt="Astitva">
+<img src = "https://media.licdn.com/dms/image/v2/D5603AQFS-uSiq8aIIA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1705914887851?e=1751500800&v=beta&t=7ekBYTQYWbIEMHOhrf-KAwQ4MGx1GvRIBSP2ARiYbd8"  height="120" alt="Manas Joshi">
 </p>
 <p align="center">
 <a href = "https://github.com/manasj007"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -187,7 +187,7 @@ The backend can be deployed to any Node.js hosting service like Heroku, Render, 
 #### Harsh Kumar Banka
 
 <p align="center">
-<img src = "https://avatars.githubusercontent.com/u/56753150?v=4"  height="120" >
+<img src = "https://avatars.githubusercontent.com/u/56753150?v=4"  height="120" alt="Harsh Kumar Banka">
 </p>
 <p align="center">
 <a href = "https://github.com/LordHarsh"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -195,7 +195,7 @@ The backend can be deployed to any Node.js hosting service like Heroku, Render, 
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
- <strong>Full-Stack Developer<strong>
+ <strong>ML & Full-Stack Developer<strong>
 </td>
 </tr>
 </table>
