@@ -148,7 +148,12 @@ The backend can be deployed to any Node.js hosting service like Heroku, Render, 
 
 ## Contributers
 
-#### Aryan Raj
+<div align="center"> 
+  <table>
+<tr align="center">
+ <td>
+
+#### Dhruv Pratap Singh
 
 <p align="center">
 <img src = "https://avatars.githubusercontent.com/u/75358720?v=4"  height="120" alt="Aryan Raj">
@@ -192,8 +197,7 @@ The backend can be deployed to any Node.js hosting service like Heroku, Render, 
 </p>
  <strong>Full-Stack Developer<strong>
 </td>
-  <td>
-
+</div>
 ## License
 
 This project is licensed under the MIT License.
