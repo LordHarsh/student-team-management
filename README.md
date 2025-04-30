@@ -157,11 +157,11 @@ The backend can be deployed to any Node.js hosting service like Heroku, Render, 
 #### Dhruv Pratap Singh
 
 <p align="center">
-<img src = "https://avatars.githubusercontent.com/u/75358720?v=4"  height="120" alt="Aryan Raj">
+<img src = "https://media.licdn.com/dms/image/v2/D4D03AQHL32wwHfqFng/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726068058952?e=1751500800&v=beta&t=fBrYqODJtazO2xbvVl9FLMgM-IfoSqtqHVigkyxjxyo"  height="120" alt="Dhruv Pratap Singh">
 </p>
 <p align="center">
-<a href = "https://github.com/aryanraj2713"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/aryan-raj-3a68b39a/">
+<a href = "https://github.com/dhruvgit-27"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/dhruv-pratap-716403303/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
