@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = import.meta.env.VITE_API_URL;
+const API_URL = `${import.meta.env.VITE_API_URL}/api`; // Ensure this is set in your .env file
 
 // Create axios instance
 const api = axios.create({
