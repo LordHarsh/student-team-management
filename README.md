@@ -197,6 +197,8 @@ The backend can be deployed to any Node.js hosting service like Heroku, Render, 
 </p>
  <strong>Full-Stack Developer<strong>
 </td>
+</tr>
+</table>
 </div>
 ## License
 
