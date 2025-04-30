@@ -52,9 +52,10 @@ student-team-management/
 └── backend/                # Node.js + Express backend
     ├── api/                # API endpoints by resource
     │   └── members/        # Members API
-    │       ├── members.router.js
-    │       ├── members.controller.js
-    │       └── members.schema.js
+    │   |   ├── members.router.js
+    │   |   ├── members.controller.js
+    │   |   └── members.schema.js
+    |   └──index.js
     ├── config/             # Configuration files
     │   └── db.js           # Database connection
     ├── middleware/         # Express middleware
