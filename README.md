@@ -210,3 +210,5 @@ This project is licensed under the MIT License.
 - React Icons - For the beautiful icons
 - React Toastify - For notifications
 - MongoDB Atlas - For database hosting
+- Vercel - For frontend hosting
+- Render - For backend hosting
