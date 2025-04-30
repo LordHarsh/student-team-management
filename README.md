@@ -16,6 +16,7 @@ A beautiful React application for managing student team members. This project in
 ## Tech Stack
 
 ### Frontend
+
 - React.js
 - React Router for navigation
 - Axios for API requests
@@ -24,6 +25,7 @@ A beautiful React application for managing student team members. This project in
 - Custom CSS styling
 
 ### Backend
+
 - Node.js + Express
 - MongoDB for data storage
 - Multer for file handling
@@ -69,16 +71,19 @@ student-team-management/
 ### Backend Setup
 
 1. Navigate to the backend directory:
+
    ```bash
    cd backend
    ```
 
 2. Install dependencies:
+
    ```bash
    npm install
    ```
 
 3. Create a `.env` file in the root of the backend directory with the following:
+
    ```
    PORT=5000
    MONGO_URI=your_mongodb_connection_string
@@ -95,11 +100,13 @@ The backend will be running on http://localhost:5000.
 ### Frontend Setup
 
 1. Navigate to the frontend directory:
+
    ```bash
    cd frontend
    ```
 
 2. Install dependencies:
+
    ```bash
    npm install
    ```
@@ -138,6 +145,54 @@ This will create a `dist` directory with static files that can be served by any 
 ### Backend
 
 The backend can be deployed to any Node.js hosting service like Heroku, Render, or Railway.
+
+## Contributers
+
+#### Aryan Raj
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/75358720?v=4"  height="120" alt="Aryan Raj">
+</p>
+<p align="center">
+<a href = "https://github.com/aryanraj2713"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/aryan-raj-3a68b39a/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+ <strong>ML & Front-End Developer<strong>
+</td>
+
+ <td>
+
+#### Manas Joshi
+
+<p align="center">
+<img src = "https://media.licdn.com/dms/image/v2/D5603AQFS-uSiq8aIIA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1705914887851?e=1751500800&v=beta&t=7ekBYTQYWbIEMHOhrf-KAwQ4MGx1GvRIBSP2ARiYbd8"  height="120" alt="Astitva">
+</p>
+<p align="center">
+<a href = "https://github.com/manasj007"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/manas-joshi-811802251/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+ <strong>Front-End Developer<strong>
+
+ <td>
+
+#### Harsh Kumar Banka
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/56753150?v=4"  height="120" >
+</p>
+<p align="center">
+<a href = "https://github.com/LordHarsh"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/harsh-banka/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+ <strong>Full-Stack Developer<strong>
+</td>
+  <td>
 
 ## License
 
