@@ -72,7 +72,8 @@ const ViewMembersPage = () => {
             border: 'none',
             fontSize: '16px',
             width: '100%',
-            outline: 'none'
+            outline: 'none',
+            backgroundColor: 'transparent'
           }}
         />
       </div>

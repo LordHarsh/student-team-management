@@ -17,7 +17,7 @@ import NotFoundPage from "./pages/notFound";
 function App() {
   return (
     <Router>
-      <div className="app">
+      <div className="app" style={{ width: "100vw" }}>
         <Header />
         <main>
           <Routes>

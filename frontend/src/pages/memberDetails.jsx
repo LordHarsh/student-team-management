@@ -8,7 +8,6 @@ const MemberDetailsPage = () => {
   const { id } = useParams();
   const navigate = useNavigate();
   const [member, setMember] = useState(null);
-  const [profileImage, setProfileImage] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [deleteLoading, setDeleteLoading] = useState(false);
@@ -19,12 +18,7 @@ const MemberDetailsPage = () => {
         // Fetch member details
         const memberData = await memberService.getMemberById(id);
         setMember(memberData);
-        
-        // Fetch profile image if available
-        if (memberData.hasImage) {
-          const imageData = await memberService.getMemberImage(id);
-          setProfileImage(imageData);
-        }
+
         
         setLoading(false);
       } catch (err) {
@@ -129,9 +123,9 @@ const MemberDetailsPage = () => {
                 border: '5px solid rgba(255, 255, 255, 0.3)',
                 boxShadow: '0 4px 10px rgba(0, 0, 0, 0.2)'
               }}>
-                {profileImage ? (
+                {member.profileImage ? (
                   <img 
-                    src={profileImage} 
+                    src={member.profileImage} 
                     alt={`${member.name}'s profile`} 
                     style={{ width: '100%', height: '100%', objectFit: 'cover' }} 
                   />
